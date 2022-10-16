@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chidorishar/icecream-team-project.git"
+    "url": "git+https://github.com/korzhenkovitalii/icecream-team-project.git"
   },
   "keywords": [],
   "author": "Team <***@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chidorishar/icecream-team-project/issues"
+    "url": "https://github.com/korzhenkovitalii/icecream-team-project/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
